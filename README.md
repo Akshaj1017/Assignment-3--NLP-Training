@@ -12,8 +12,8 @@ Train a named entity recognition model to identify the various entities present 
   https://groups.csail.mit.edu/sls/downloads/restaurant/restauranttrain.bio
 
 # Libraries Used
-* ##  Request
-      Requests library can be used to scrape the data from the website.
+* ## Request
+     Requests library can be used to scrape the data from the website.
       
 * ## Spacy
      spaCy is designed to make it easy to build systems for information extraction or general-purpose natural language processing.
